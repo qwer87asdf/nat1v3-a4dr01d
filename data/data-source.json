@@ -1,54 +1,54 @@
 {
     "ad": {
         "updated_at": 1648624815,
-        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/ad-array.json"
+        "url": "data/ad-array.json"
     },
     "app_info": {
         "updated_at": 1618127655,
-        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/app-info.json"
+        "url": "data/app-info.json"
     },
     "district_time": {
         "updated_at": 1678274995,
-        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/district-time.json"
+        "url": "data/district-time.json"
     },
     "donation": {
         "updated_at": 1634005327,
-        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/donation.json"
+        "url": "data/donation.json"
     },
     "dua": {
         "updated_at": 1600662819,
-        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/dua.json"
+        "url": "data/dua.json"
     },
     "hijri_month": {
         "updated_at": 1615798072,
-        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/hijri-month.json"
+        "url": "data/hijri-month.json"
     },
     "qari": {
         "updated_at": 1587198783,
-        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/qari.json"
+        "url": "data/qari.json"
     },
     "special_note": {
         "updated_at": 1619514227,
-        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/special-note.json"
+        "url": "data/special-note.json"
     },
     "wrong_concept": {
         "updated_at": 1623472702,
-        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/wrong-concept.json"
+        "url": "data/wrong-concept.json"
     },
     "article": {
         "updated_at": 1623472706,
-        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/article.json"
+        "url": "data/article.json"
     },
     "masala": {
         "updated_at": 1623472702,
-        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/masala.json"
+        "url": "data/masala.json"
     },
     "masnun_amal": {
         "updated_at": 1623472699,
-        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/masnun-amal.json"
+        "url": "data/masnun-amal.json"
     },
     "local_notification": {
         "updated_at": 1677209056,
-        "url": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/local-notification.json"
+        "url": "data/local-notification.json"
     }
 }
