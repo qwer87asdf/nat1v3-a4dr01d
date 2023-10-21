@@ -1,54 +1,54 @@
 {
     "ad": {
         "updated_at": 1648624818,
-        "url": "https://raw.githubusercontent.com/qwer87asdf/nat1v3-a4dr01d/main/data/ad-array.json"
+        "url": "data/ad-array.json"
     },
     "app_info": {
         "updated_at": 1618127655,
-        "url": "https://raw.githubusercontent.com/qwer87asdf/nat1v3-a4dr01d/main/data/app-info.json"
+        "url": "data/app-info.json"
     },
     "district_time": {
         "updated_at": 1678274995,
-        "url": "https://raw.githubusercontent.com/qwer87asdf/nat1v3-a4dr01d/main/data/district-time.json"
+        "url": "data/district-time.json"
     },
     "donation": {
         "updated_at": 1634005327,
-        "url": "https://raw.githubusercontent.com/qwer87asdf/nat1v3-a4dr01d/main/data/donation.json"
+        "url": "data/donation.json"
     },
     "dua": {
         "updated_at": 1600662820,
-        "url": "https://raw.githubusercontent.com/qwer87asdf/nat1v3-a4dr01d/main/data/dua.json"
+        "url": "data/dua.json"
     },
     "hijri_month": {
         "updated_at": 1615798073,
-        "url": "https://raw.githubusercontent.com/qwer87asdf/nat1v3-a4dr01d/main/data/hijri-month.json"
+        "url": "data/hijri-month.json"
     },
     "qari": {
         "updated_at": 1587198783,
-        "url": "https://raw.githubusercontent.com/qwer87asdf/nat1v3-a4dr01d/main/data/qari.json"
+        "url": "data/qari.json"
     },
     "special_note": {
         "updated_at": 1619514227,
-        "url": "https://raw.githubusercontent.com/qwer87asdf/nat1v3-a4dr01d/main/data/special-note.json"
+        "url": "data/special-note.json"
     },
     "wrong_concept": {
         "updated_at": 1623472702,
-        "url": "https://raw.githubusercontent.com/qwer87asdf/nat1v3-a4dr01d/main/data/wrong-concept.json"
+        "url": "data/wrong-concept.json"
     },
     "article": {
         "updated_at": 1623472706,
-        "url": "https://raw.githubusercontent.com/qwer87asdf/nat1v3-a4dr01d/main/data/article.json"
+        "url": "data/article.json"
     },
     "masala": {
         "updated_at": 1623472702,
-        "url": "https://raw.githubusercontent.com/qwer87asdf/nat1v3-a4dr01d/main/data/masala.json"
+        "url": "data/masala.json"
     },
     "masnun_amal": {
         "updated_at": 1623472699,
-        "url": "https://raw.githubusercontent.com/qwer87asdf/nat1v3-a4dr01d/main/data/masnun-amal.json"
+        "url": "data/masnun-amal.json"
     },
     "local_notification": {
         "updated_at": 1677209056,
-        "url": "https://raw.githubusercontent.com/qwer87asdf/nat1v3-a4dr01d/main/data/local-notification.json"
+        "url": "data/local-notification.json"
     }
 }
