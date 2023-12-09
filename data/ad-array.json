@@ -4,7 +4,7 @@
     {
       "button_text": "ভিডিও",
       "action_url": "https://youtu.be/Fb5J7zv5wNg?si=hVjtnbHB1tmGORpO",
-      "enable": true,
+      "enable": false,
       "id": 105,
       "message": "মাওলানা শরীফ মুহাম্মদ সাহেবের অতীব জরুরি সংক্ষিপ্ত এই আলোচনাটি শুনুন",
       "title": "পশ্চিমাদের ট্রান্সজেন্ডার ব্যাধি এখন এদেশেও!"
@@ -12,7 +12,7 @@
     {
       "button_text": "ভিডিও",
       "action_url": "https://youtu.be/uBHWgeojXIc",
-      "enable": true,
+      "enable": false,
       "id": 104,
       "message": "ট্রান্সজেন্ডারের বৈধতা ইসলাম ও সমাজের সাথে বিদ্রোহ - মাওলানা তাহমীদুল মাওলা",
       "title": "ট্রান্সজেন্ডার মতবাদ সম্পর্কে ইসলামের অবস্থান"
@@ -20,7 +20,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://mshossain.com/hijra-and-transgender-ambiguity-risk-of-disaster-in-country/",
-      "enable": true,
+      "enable": false,
       "id": 102,
       "message": "হিজড়া ও ট্রান্সজেন্ডার শব্দের অস্পষ্টতায় দেশে ভয়াবহ বিপর্যয়ের ঝুঁকি",
       "title": "ড. মোহাম্মদ সরোয়ার হোসেনের আর্টিকেল পড়ুন"
