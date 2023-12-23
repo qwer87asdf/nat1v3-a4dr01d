@@ -2,6 +2,14 @@
   "admob_enable": true,
   "banner_ads": [
     {
+      "button_text": "বিস্তারিত",
+      "action_url": "https://muslimsday.com/পূজা-দেখতে-যাওয়ার-বিধান",
+      "enable": true,
+      "id": 106,
+      "message": "জেনে নিন অমুসলিমদের ধর্মীয় উৎসবে অংশগ্রহন ও শুভেচ্ছা জানানোর বিধান",
+      "title": "বড়দিনের শুভেচ্ছা জানানো থেকে বিরত থাকুন"
+    },
+    {
       "button_text": "কিনুন",
       "action_url": "https://www.shorobor.biz/warmth-in-winter/?utm_source=muslims_day&utm_medium=banner&utm_campaign=winter2023",
       "enable": false,
@@ -12,7 +20,7 @@
     {
       "button_text": "ভিডিও",
       "action_url": "https://youtu.be/uBHWgeojXIc",
-      "enable": true,
+      "enable": false,
       "id": 104,
       "message": "ট্রান্সজেন্ডারের বৈধতা ইসলাম ও সমাজের সাথে বিদ্রোহ - মাওলানা তাহমীদুল মাওলা",
       "title": "ট্রান্সজেন্ডার মতবাদ সম্পর্কে ইসলামের অবস্থান"
@@ -20,7 +28,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://mshossain.com/hijra-and-transgender-ambiguity-risk-of-disaster-in-country/",
-      "enable": true,
+      "enable": false,
       "id": 102,
       "message": "হিজড়া ও ট্রান্সজেন্ডার শব্দের অস্পষ্টতায় দেশে ভয়াবহ বিপর্যয়ের ঝুঁকি",
       "title": "ড. মোহাম্মদ সরোয়ার হোসেনের আর্টিকেল পড়ুন"
