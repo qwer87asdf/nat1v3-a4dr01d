@@ -12,7 +12,7 @@
     {
       "button_text": "কিনুন",
       "action_url": "https://www.shorobor.biz/warmth-in-winter/?utm_source=muslims_day&utm_medium=banner&utm_campaign=winter2023",
-      "enable": false,
+      "enable": true,
       "id": 105,
       "message": "সরোবর এর মাধ্যমে তীব্র শীতের এলাকার দুস্থদের মাঝে শীতবস্ত্র পৌঁছতে পারেন",
       "title": "এই শীতে কম্বল, শাল নিয়ে মানুষের পাশে দাঁড়াবেন তো?"
