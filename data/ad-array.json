@@ -4,7 +4,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/আইয়ামে-বীজ-রোজার-ফজিলত",
-      "enable": true,
+      "enable": false,
       "id": 106,
       "message": "১৪৪৫ হিজরির জুমাদাল আখিরাহ এর আইয়ামে বীজের রোজা: ২৭, ২৮ ও ২৯ ডিসেম্বর",
       "title": "চলতি মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
@@ -12,7 +12,7 @@
     {
       "button_text": "কিনুন",
       "action_url": "https://www.shorobor.biz/warmth-in-winter/?utm_source=muslims_day&utm_medium=banner&utm_campaign=winter2023",
-      "enable": true,
+      "enable": false,
       "id": 105,
       "message": "সরোবর এর মাধ্যমে তীব্র শীতের এলাকার দুস্থদের মাঝে শীতবস্ত্র পৌঁছতে পারেন",
       "title": "এই শীতে কম্বল, শাল নিয়ে মানুষের পাশে দাঁড়াবেন তো?"
@@ -26,12 +26,12 @@
       "title": "ট্রান্সজেন্ডার মতবাদ সম্পর্কে ইসলামের অবস্থান"
     },
     {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://mshossain.com/hijra-and-transgender-ambiguity-risk-of-disaster-in-country/",
-      "enable": false,
+      "button_text": "Survey",
+      "action_url": "https://forms.gle/MLVc26dtsymjvLSV6",
+      "enable": true,
       "id": 102,
-      "message": "হিজড়া ও ট্রান্সজেন্ডার শব্দের অস্পষ্টতায় দেশে ভয়াবহ বিপর্যয়ের ঝুঁকি",
-      "title": "ড. মোহাম্মদ সরোয়ার হোসেনের আর্টিকেল পড়ুন"
+      "message": "মাত্র ১ মিনিট ব্যয় করে মুসলিমস ডে অ্যাপের উন্নয়নে অংশীদার হউন",
+      "title": "অ্যাপের কোন ফিচারটি আপনার কেমন ইউজ হয়?"
     },
     {
       "button_text": "Donate",
