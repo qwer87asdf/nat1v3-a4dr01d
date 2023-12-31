@@ -10,12 +10,12 @@
       "title": "চলতি মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
     },
     {
-      "button_text": "কিনুন",
-      "action_url": "https://www.shorobor.biz/warmth-in-winter/?utm_source=muslims_day&utm_medium=banner&utm_campaign=winter2023",
-      "enable": false,
+      "button_text": "পড়ুন",
+      "action_url": "https://muslimsday.com/নববর্ষ",
+      "enable": true,
       "id": 105,
-      "message": "সরোবর এর মাধ্যমে তীব্র শীতের এলাকার দুস্থদের মাঝে শীতবস্ত্র পৌঁছতে পারেন",
-      "title": "এই শীতে কম্বল, শাল নিয়ে মানুষের পাশে দাঁড়াবেন তো?"
+      "message": "আমাদের প্রতিটি দিন হোক তার আগের দিনের চেয়ে উত্তম ও অধিক কল্যাণময়",
+      "title": "এসেছে নতুন বছর: চলুন অতীত থেকে শিক্ষা নিই"
     },
     {
       "button_text": "ভিডিও",
@@ -36,7 +36,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://muslimsday.com/donation",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "এই ফান্ডে যাকাত-ফিতরা প্রদান করা যাবে না। সাধারন ডোনেশন দিতে পারেন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
