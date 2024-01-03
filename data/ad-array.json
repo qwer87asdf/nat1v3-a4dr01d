@@ -12,7 +12,7 @@
     {
       "button_text": "পড়ুন",
       "action_url": "https://muslimsday.com/নববর্ষ",
-      "enable": true,
+      "enable": false,
       "id": 105,
       "message": "আমাদের প্রতিটি দিন হোক তার আগের দিনের চেয়ে উত্তম ও অধিক কল্যাণময়",
       "title": "এসেছে নতুন বছর: চলুন অতীত থেকে শিক্ষা নিই"
@@ -20,7 +20,7 @@
     {
       "button_text": "ভিডিও",
       "action_url": "https://youtu.be/EPSZUvXQhJc",
-      "enable": true,
+      "enable": false,
       "id": 104,
       "message": "মাওলানা শরীফ মুহাম্মাদের সময়োপযোগী আলোচনা। সচেতন হউন, এ অন্যায় রুখে দিন",
       "title": "থার্টি ফার্স্ট নাইট : উল্লাসের অত্যাচার বন্ধ করুন"
