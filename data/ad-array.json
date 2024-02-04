@@ -2,8 +2,8 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/তাহারাত-কুইজ-২০২৪/",
+      "button_text": "রেজিস্ট্রেশন",
+      "action_url": "https://docs.google.com/forms/d/e/1FAIpQLSddxMa40FsWs3nOvqKfIIot-VwpCmQrvOXLv6lUDJZLaMxSgw/viewform",
       "enable": true,
       "id": 105,
       "message": "পবিত্রতা বিষয়ক মাসআলা জানুন ও কুইজে অংশ নিন। সকলের জন্য থাকছে পুরস্কার!",
