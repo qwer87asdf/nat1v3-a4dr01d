@@ -50,5 +50,9 @@
     "local_notification": {
         "updated_at": 1699001173,
         "url": "data/local-notification.json"
+    },
+    "local_notification_v2": {
+        "updated_at": 1699001174,
+        "url": "data/local-notification-v2.json"
     }
 }
