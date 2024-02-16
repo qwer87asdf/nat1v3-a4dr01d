@@ -10,17 +10,9 @@
       "title": "রজব মাসের করণীয় ও বর্জনীয় বিষয়সমূহ"
     },
     {
-      "button_text": "কুইজ",
-      "action_url": "https://forms.gle/cA9NC5vBZtbdC1iVA",
-      "enable": true,
-      "id": 102,
-      "message": "পুরস্কার হিসাবে সামষ্টিক ভাবে থাকছে প্রায় ৩০,০০০ টাকার মূল্যমানের বই!",
-      "title": "তাহারাত (পবিত্রতা) কুইজ প্রতিযোগিতায় অংশ নিন"
-    },
-    {
       "button_text": "Donate",
       "action_url": "https://muslimsday.com/donation",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "এই ফান্ডে যাকাত-ফিতরা প্রদান করা যাবে না। সাধারন ডোনেশন দিতে পারেন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
