@@ -7,5 +7,5 @@
   "ifaTimeEndPoint": "https://raw.githubusercontent.com/Megaminds-BD/muslims-day-data/master/data/district-time.json",
   "ifaTimeEndpointUpdatedAt": 1679475027,
   "isForceUpdateEnable": false,
-  "isIfaEnable": true
+  "isIfaEnable": false
 }
