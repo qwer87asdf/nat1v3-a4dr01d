@@ -88,10 +88,6 @@
     "server": "http://server8.mp3quran.net/hani/"
   },
   {
-    "name": "সাঊদ আশ-শুরাইম",
-    "server": "http://server7.mp3quran.net/shur/"
-  },
-  {
     "name": "সা‘দ আল-গামেদী",
     "server": "http://server7.mp3quran.net/s_gmd/"
   },
