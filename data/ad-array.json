@@ -2,6 +2,14 @@
   "admob_enable": true,
   "banner_ads": [
     {
+      "button_text": "বিস্তারিত",
+      "action_url": "https://muslimsday.com/শবে-বরাত-ফজিলত-আমল-বিদআত",
+      "enable": true,
+      "id": 106,
+      "message": "জেনে নিন এরাতের ফজিলত; করণীয় আমল ও বর্জনীয় বিদআত-কুসংস্কার সম্পর্কে",
+      "title": "লাইলাতুন নিসফ মিন শাবান বা শবে বরাত"
+    },
+    {
       "button_text": "রেজিস্ট্রেশন",
       "action_url": "https://docs.google.com/forms/d/e/1FAIpQLSd-bP5VU0h0JC_Rlj-S4ieYNmL3tOkEtZbKqNi__TkqdkDGNQ/viewform?usp=sf_link",
       "enable": true,
