@@ -4,7 +4,7 @@
         "url": "data/ad-array.json"
     },
     "app_info": {
-        "updated_at": 1699001173,
+        "updated_at": 1699001174,
         "url": "data/app-info.json"
     },
     "district_time": {
@@ -12,7 +12,7 @@
         "url": "data/district-time.json"
     },
     "donation": {
-        "updated_at": 1699001179,
+        "updated_at": 1699001180,
         "url": "data/donation.json"
     },
     "dua": {
