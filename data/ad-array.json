@@ -2,12 +2,12 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/শবে-বরাত-ফজিলত-আমল-বিদআত",
-      "enable": false,
+      "button_text": "প্যাকেজ কিনুন",
+      "action_url": "https://shorobor.biz/ramadan-food-project/?utm_source=muslims_day&utm_medium=banner&utm_campaign=ramadan_project",
+      "enable": true,
       "id": 106,
-      "message": "জেনে নিন এরাতের ফজিলত; করণীয় আমল ও বর্জনীয় বিদআত-কুসংস্কার সম্পর্কে",
-      "title": "লাইলাতুন নিসফ মিন শাবান বা শবে বরাত"
+      "message": "মাত্র ৳ ৮০০/- ফুড প্যাকেজ এবং ৳ ৩৯০/- ইফতার কিনতে পারেন, যা পাবে রোজাদাররা",
+      "title": "রামাদানে দুঃস্থদের সাহরি ও ইফতার করাতে চান?"
     },
     {
       "button_text": "রেজিস্ট্রেশন",
