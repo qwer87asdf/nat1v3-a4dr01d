@@ -12,7 +12,7 @@
     {
       "button_text": "রেজিস্ট্রেশন",
       "action_url": "https://docs.google.com/forms/d/e/1FAIpQLSd-bP5VU0h0JC_Rlj-S4ieYNmL3tOkEtZbKqNi__TkqdkDGNQ/viewform?usp=sf_link",
-      "enable": true,
+      "enable": false,
       "id": 105,
       "message": "রোযা ও যাকাতের মাসআলা জেনে কুইজে অংশ নিন। জিতে নিন আকর্ষণীয় পুরস্কার!",
       "title": "মুসলিমস ডে রমযান কুইজ প্রতিযোগিতা ২০২৪"
