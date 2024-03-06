@@ -1,6 +1,6 @@
 {
     "ad": {
-        "updated_at": 1699001212,
+        "updated_at": 1699001213,
         "url": "data/ad-array.json"
     },
     "app_info": {
@@ -12,7 +12,7 @@
         "url": "data/district-time.json"
     },
     "donation": {
-        "updated_at": 1699001183,
+        "updated_at": 1699001184,
         "url": "data/donation.json"
     },
     "dua": {
