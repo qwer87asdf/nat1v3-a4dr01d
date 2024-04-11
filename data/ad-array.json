@@ -4,18 +4,18 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/ঈদের-নামাজের-নিয়ম",
-      "enable": true,
+      "enable": false,
       "id": 104,
       "message": "জেনে নিন অতিরিক্ত ৬ তাকবিরের সাথে ঈদের নামাজের সকল নিয়মকানুন",
       "title": "ঈদের নামাজের নিয়ম"
     },
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/ঈদ-উল-ফিতর-সুন্নত-আমল/",
+      "action_url": "https://muslimsday.com/শাওয়ালের-ছয়-রোজা",
       "enable": true,
       "id": 103,
-      "message": "ঈদের দিনের ১০টি আমল জেনে নিই মুসলিমস ডে ব্লগ থেকে",
-      "title": "ঈদের দিনের সুন্নত আমলসমূহ"
+      "message": "ঈদ পরবর্তী গুরুত্বপূর্ণ আমল। সারা বছর রোজার সওয়াব!",
+      "title": "শাওয়ালের ছয়টি রোজা রাখছেন তো?"
     },
     {
       "button_text": "বিস্তারিত",
@@ -28,7 +28,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/ঈদের-নামাজে-কয়েকটি-ভুল/",
-      "enable": true,
+      "enable": false,
       "id": 102,
       "message": "ঈদের নামাজের শেষে কোলাকুলি করা কি সুন্নত?",
       "title": "ঈদের নামাজের কয়েকটি সাধারন ভুল"
