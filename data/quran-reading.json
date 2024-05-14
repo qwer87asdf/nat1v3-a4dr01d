@@ -2,25 +2,25 @@
   {
     "id": 101,
     "name": "হাফেজি কুরআন",
-    "image": "data/quran_reading/image/hafeji_quran.jpg",
-    "url": "data/quran_reading/hafeji_quran.zip"
+    "image": "data/quran_reading/image/hafeji.jpg",
+    "url": "data/quran_reading/hafeji.zip"
   },
   {
     "id": 102,
     "name": "নূরানি কুরআন",
-    "image": "data/quran_reading/image/nurani_quran.jpg",
-    "url": "data/quran_reading/nurani_quran.zip"
+    "image": "data/quran_reading/image/nurani.jpg",
+    "url": "data/quran_reading/nurani.zip"
   },
   {
     "id": 103,
     "name": "কোলকাতা ছাপা কুরআন",
-    "image": "data/quran_reading/image/hafeji_quran.jpg",
-    "url": "data/quran_reading/hafeji_quran.zip"
+    "image": "data/quran_reading/image/hafeji.jpg",
+    "url": "data/quran_reading/hafeji.zip"
   },
   {
     "id": 104,
     "name": "কালার কোডেড কুরআন",
-    "image": "data/quran_reading/image/nurani_quran.jpg",
-    "url": "data/quran_reading/nurani_quran.zip"
+    "image": "data/quran_reading/image/nurani.jpg",
+    "url": "data/quran_reading/nurani.zip"
   }
 ]
