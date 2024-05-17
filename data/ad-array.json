@@ -4,18 +4,18 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/tag/হজ-ওমরা/",
-      "enable": true,
+      "enable": false,
       "id": 104,
       "message": "এ সম্পর্কিত মুসলিমস ডে ব্লগের সকল পোস্ট পড়া যাবে এখান থেকে",
       "title": "হজ ও ওমরা বিষয়ে ইলম অর্জন করুন"
     },
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/শাওয়ালের-ছয়-রোজা",
-      "enable": false,
+      "action_url": "https://muslimsday.com/tag/কুরবানি",
+      "enable": true,
       "id": 103,
-      "message": "ঈদ পরবর্তী গুরুত্বপূর্ণ আমল। সারা বছর রোজার সওয়াব!",
-      "title": "শাওয়ালের ছয়টি রোজা রাখছেন তো?"
+      "message": "জেনে নিন কুরবানি সম্পর্কিত কিছু প্রাথমিক জ্ঞান ও মাসআলা",
+      "title": "আসছে ঈদুল আযহা ও কুরবানি"
     },
     {
       "button_text": "বিস্তারিত",
@@ -27,11 +27,11 @@
     },
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/ঈদের-নামাজে-কয়েকটি-ভুল/",
-      "enable": false,
+      "action_url": "https://muslimsday.com/আইয়ামে-বীজ-রোজার-ফজিলত",
+      "enable": true,
       "id": 102,
-      "message": "ঈদের নামাজের শেষে কোলাকুলি করা কি সুন্নত?",
-      "title": "ঈদের নামাজের কয়েকটি সাধারন ভুল"
+      "message": "এমাসের রোজা: ২২, ২৩ ও ২৪ মে। এ রোজার ফজিলত ও মাসআলা জানুন",
+      "title": "যুল কা'দা মাসের আইয়ামে বীজের রোজা রাখছেন তো?"
     },
     {
       "button_text": "Donate",
