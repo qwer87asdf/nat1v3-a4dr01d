@@ -12,18 +12,18 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/tag/কুরবানি",
-      "enable": true,
+      "enable": false,
       "id": 103,
       "message": "জেনে নিন কুরবানি সম্পর্কিত কিছু প্রাথমিক জ্ঞান ও মাসআলা",
       "title": "আসছে ঈদুল আযহা ও কুরবানি"
     },
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/ঈদের-আনন্দে-রমজানের-সংযম/",
-      "enable": false,
+      "action_url": "https://www.shorobor.org/udhiya/",
+      "enable": true,
       "id": 102,
-      "message": "ঈদের আনন্দ হোক একজন মুসলিমের মত! রমযানের আলোয় উদ্ভাসিত!",
-      "title": "ঈদের আনন্দ: রমজানের সংযম হারিয়ে যাচ্ছে না তো?"
+      "message": "কুরবানির গরুর ভাগ ১১০০০ টাকা ও ছাগল ১৩০০০ টাকা। যা পৌঁছে যাবে দরিদ্র মানুষের কাছে",
+      "title": "সরোবরের মাধ্যমে কুরবানি করে গোশত দুঃস্থদেরকে বিলিয়ে দিতে চান?"
     },
     {
       "button_text": "বিস্তারিত",
@@ -36,7 +36,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://muslimsday.com/donation",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "এই ফান্ডে যাকাত-ফিতরা প্রদান করা যাবে না। সাধারন ডোনেশন দিতে পারেন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
