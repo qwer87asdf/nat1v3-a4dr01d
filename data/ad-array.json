@@ -11,11 +11,11 @@
     },
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/tag/কুরবানি",
-      "enable": false,
+      "action_url": "https://muslimsday.com/tag/হজ-ওমরা",
+      "enable": true,
       "id": 103,
-      "message": "জেনে নিন কুরবানি সম্পর্কিত কিছু প্রাথমিক জ্ঞান ও মাসআলা",
-      "title": "আসছে ঈদুল আযহা ও কুরবানি"
+      "message": "জেনে নিন হজ ও ওমরা সম্পর্কিত জরুরি সকল ইলম ও মাসআলা",
+      "title": "হজ ও ওমরা সম্পর্কিত সকল ব্লগ পোস্ট"
     },
     {
       "button_text": "বিস্তারিত",
