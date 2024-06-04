@@ -20,7 +20,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://www.shorobor.org/udhiya/",
-      "enable": true,
+      "enable": false,
       "id": 105,
       "message": "গরুর ভাগ ৳১১০০০, ছাগল ৳১৩০০০। গোশত পৌঁছবে দরিদ্র মানুষের কাছে",
       "title": "সরোবরের মাধ্যমে কুরবানি করে গোশত বিলিয়ে দিতে চান?"
