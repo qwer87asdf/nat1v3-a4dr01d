@@ -12,18 +12,18 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/tag/হজ-ওমরা",
-      "enable": true,
+      "enable": false,
       "id": 103,
       "message": "জেনে নিন হজ ও ওমরা সম্পর্কিত জরুরি সকল ইলম ও মাসআলা",
       "title": "হজ ও ওমরা সম্পর্কিত সকল ব্লগ পোস্ট"
     },
     {
       "button_text": "বিস্তারিত",
-      "action_url": "https://www.shorobor.org/udhiya/",
-      "enable": false,
+      "action_url": "https://muslimsday.com/জিলহজের-১ম-দশকের-ফজিলত/",
+      "enable": true,
       "id": 105,
-      "message": "গরুর ভাগ ৳১১০০০, ছাগল ৳১৩০০০। গোশত পৌঁছবে দরিদ্র মানুষের কাছে",
-      "title": "সরোবরের মাধ্যমে কুরবানি করে গোশত বিলিয়ে দিতে চান?"
+      "message": "চুল-নখ কেটে ফেলুন ৭ জুন শুক্রবার সূর্যাস্তের আগেই। অন্যান্য আমল সম্পর্কে জানুন",
+      "title": "জিলহজ মাসের ১ম দশ দিনের ফজিলত ও আমল"
     },
     {
       "button_text": "বিস্তারিত",
