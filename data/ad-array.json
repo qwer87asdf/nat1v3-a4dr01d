@@ -2,11 +2,11 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/কুরবানি-কুইজ-২০২৪",
+      "button_text": "Join",
+      "action_url": "https://forms.gle/HEaELUwHbNfUSaXZA",
       "enable": true,
       "id": 104,
-      "message": "কুরবানির মাসআলা জেনে কুইজে অংশ নিন! পুরস্কার জিতুন!",
+      "message": "আজ শুক্রবার রাত ৯:৩০ এ কুইজে অংশ নিন! পুরস্কার জিতুন!",
       "title": "মুসলিমস ডে কুরবানি কুইজ প্রতিযোগিতা ২০২৪"
     },
     {
@@ -20,7 +20,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/জিলহজের-১ম-দশকের-ফজিলত/",
-      "enable": true,
+      "enable": false,
       "id": 105,
       "message": "চুল-নখ কেটে ফেলুন ৭ জুন শুক্রবার সূর্যাস্তের আগেই। অন্যান্য আমল সম্পর্কে জানুন",
       "title": "জিলহজ মাসের ১ম দশ দিনের ফজিলত ও আমল"
