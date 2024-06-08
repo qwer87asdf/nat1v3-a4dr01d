@@ -2,17 +2,17 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "Join",
-      "action_url": "https://forms.gle/HEaELUwHbNfUSaXZA",
+      "button_text": "পড়ুন",
+      "action_url": "https://muslimsday.com/tag/কুরবানি/",
       "enable": true,
       "id": 104,
-      "message": "আজ শুক্রবার রাত ৯:৩০ এ কুইজে অংশ নিন! পুরস্কার জিতুন!",
-      "title": "মুসলিমস ডে কুরবানি কুইজ প্রতিযোগিতা ২০২৪"
+      "message": "মুসলিমস ডে ব্লগে কুরবানি সম্পর্কে রয়েছে ১০টিরও বেশি প্রবন্ধ!",
+      "title": "কুরবানির মাসআলা জানুন"
     },
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/tag/হজ-ওমরা",
-      "enable": false,
+      "enable": true,
       "id": 103,
       "message": "জেনে নিন হজ ও ওমরা সম্পর্কিত জরুরি সকল ইলম ও মাসআলা",
       "title": "হজ ও ওমরা সম্পর্কিত সকল ব্লগ পোস্ট"
