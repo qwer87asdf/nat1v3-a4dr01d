@@ -1,0 +1,42 @@
+[
+  {
+    "id": "hafeji",
+    "name_en": "Hafeji Quran",
+    "name_bn": "হাফেজি কুরআন",
+    "thumbnail": "data/quran_reading/thumbnail/hafeji.jpg",
+    "data": {
+      "surah_mapping": {
+        "url": "data/quran_reading/hafeji/surah_mapping.csv",
+        "updaed_at": 1718118114
+      },
+      "para_mapping": {
+        "url": "data/quran_reading/hafeji/para_mapping.csv",
+        "updaed_at": 1718118114
+      },
+      "pages": {
+        "url": "data/quran_reading/hafeji/pages.zip",
+        "updaed_at": 1718118114
+      }
+    }
+  },
+  {
+    "id": "nurani",
+    "name_en": "Nurani Quran",
+    "name_bn": "নুরানী কুরআন",
+    "thumbnail": "data/quran_reading/thumbnail/nurani.jpg",
+    "data": {
+      "surah_mapping": {
+        "url": "data/quran_reading/nurani/surah_mapping.csv",
+        "updaed_at": 1718118114
+      },
+      "para_mapping": {
+        "url": "data/quran_reading/nurani/para_mapping.csv",
+        "updaed_at": 1718118114
+      },
+      "pages": {
+        "url": "data/quran_reading/nurani/pages.zip",
+        "updaed_at": 1718118114
+      }
+    }
+  }
+]
