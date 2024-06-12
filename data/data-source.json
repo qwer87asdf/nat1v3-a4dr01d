@@ -57,6 +57,6 @@
     },
     "quran_reading": {
         "updated_at": 1699001177,
-        "url": "data/quran_reading.json"
+        "url": "data/quran_reading/quran_reading.json"
     }
 }
