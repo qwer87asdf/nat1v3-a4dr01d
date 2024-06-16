@@ -3,11 +3,11 @@
   "banner_ads": [
     {
       "button_text": "পড়ুন",
-      "action_url": "https://muslimsday.com/tag/কুরবানি/",
-      "enable": false,
+      "action_url": "https://muslimsday.com/ঈদুল-আযহার-সুন্নত-আমল/",
+      "enable": true,
       "id": 104,
-      "message": "মুসলিমস ডে ব্লগে কুরবানি সম্পর্কে রয়েছে ১০টিরও বেশি প্রবন্ধ!",
-      "title": "কুরবানির মাসআলা জানুন"
+      "message": "জেনে নিই ঈদের দিনের কয়েকটি মাসনূন আমল সম্পর্কে",
+      "title": "ঈদ উল আযহার সুন্নত আমল"
     },
     {
       "button_text": "বিস্তারিত",
