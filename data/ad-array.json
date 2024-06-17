@@ -4,7 +4,7 @@
     {
       "button_text": "পড়ুন",
       "action_url": "https://muslimsday.com/ঈদুল-আযহার-সুন্নত-আমল/",
-      "enable": true,
+      "enable": false,
       "id": 104,
       "message": "জেনে নিই ঈদের দিনের কয়েকটি মাসনূন আমল সম্পর্কে",
       "title": "ঈদ উল আযহার সুন্নত আমল"
@@ -20,7 +20,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/ঈদের-নামাজের-নিয়ম",
-      "enable": true,
+      "enable": false,
       "id": 105,
       "message": "জেনে নিই সুন্নাহের আলোকে অতিরিক্ত ৬ তাকবিরের সাথে ঈদের নামাজের নিয়ম",
       "title": "ঈদের নামাজের নিয়ম"
@@ -36,7 +36,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://muslimsday.com/donation",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "এই ফান্ডে যাকাত-ফিতরা প্রদান করা যাবে না। সাধারন ডোনেশন দিতে পারেন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
