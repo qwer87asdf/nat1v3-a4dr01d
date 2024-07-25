@@ -2,17 +2,17 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/মুহাররম-আশুরা-কুইজ-২০২৪",
-      "enable": false,
+      "button_text": "Update",
+      "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
+      "enable": true,
       "id": 8,
-      "message": "মুহাররম ও আশুরার সঠিক ফজিলত ও ইলম জানুন। কুইজে অংশ নিন",
-      "title": "মুহাররম ও আশুরা কুইজ প্রতিযোগিতা ২০২৪"
+      "message": "আপডেট না করে থাকলে আজই 5.11.2 ভার্সনে আপডেট করে নিন!",
+      "title": "মুসলিমস ডে অ্যাপে নতুন আপডেট এসেছে!"
     },
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/আশুরার-রোজার-ফজিলত",
-      "enable": true,
+      "enable": false,
       "id": 7,
       "message": "মুসলিমস ডে ব্লগ থেকে জানুন আশুরার রোজার ফজিলত সম্পর্কে",
       "title": "আশুরার রোজার ফজিলত"
@@ -20,7 +20,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/মহিমান্বিত-আশুরার-ইতিহাস",
-      "enable": true,
+      "enable": false,
       "id": 6,
       "message": "চলুন জেনে নেয়া যাক আশুরার মহিমান্বিত ইতিহাস",
       "title": "ইতিহাসের আলোকে মহিমান্বিত আশুরা"
@@ -28,7 +28,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/মুহাররম-শোকের-মাস-নয়",
-      "enable": true,
+      "enable": false,
       "id": 5,
       "message": "মুহাররম শোক কিংবা অপয়া মাস নয়। এটি মর্যাদাপূর্ণ \"আল্লাহর মাস\"",
       "title": "মুহাররম শোকের মাস নয়"
@@ -36,7 +36,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/মুহাররম-মাস-ফজিলত-ও-আমল/",
-      "enable": true,
+      "enable": false,
       "id": 4,
       "message": "এমাসের ফজিলত ও আমল সম্পর্কে জানুন। কুসংস্কার ও বিদআত থেকে বেঁচে থাকুন",
       "title": "মুহাররম মাসের ফজিলত ও আমল"
@@ -44,7 +44,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/শিয়াদের-তাজিয়া-মিছিল",
-      "enable": true,
+      "enable": false,
       "id": 3,
       "message": "ইসলামী শরীয়ার দৃষ্টিকোণ থেকে তাজিয়া মিছিল ও শোক প্রকাশের বিধান জানুন",
       "title": "শিয়াদের তাজিয়া মিছিল ও শোক প্রকাশ"
