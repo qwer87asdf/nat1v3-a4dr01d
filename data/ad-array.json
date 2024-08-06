@@ -2,12 +2,12 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "Update",
-      "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan",
-      "enable": false,
+      "button_text": "পড়ুন",
+      "action_url": "https://muslimsday.com/মুমিনের-বিজয়-উদযাপন",
+      "enable": true,
       "id": 8,
-      "message": "আপডেট না করে থাকলে আজই 5.11.2 ভার্সনে আপডেট করে নিন!",
-      "title": "মুসলিমস ডে অ্যাপে নতুন আপডেট এসেছে!"
+      "message": "জেনে নিন মুমিন হিসাবে কী করা উচিত আর কী করা যাবে না?",
+      "title": "মুমিনের বিজয় উদযাপন কেমন হবে?"
     },
     {
       "button_text": "বিস্তারিত",
