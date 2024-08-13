@@ -23,13 +23,13 @@
       "account_name": "",
       "account_number": "01521101145",
       "account_type": "Personal",
-      "bank_or_wallet_name": "বিকাশ, নগদ, উপায়, রকেট (সেন্ড মানি)",
+      "bank_or_wallet_name": "বিকাশ, উপায়, রকেট (সেন্ড মানি)",
       "branch": "",
       "isBank": false,
       "isEnable": true,
       "routing_number": "",
       "swift_code": "",
-      "additional_info": "Account holder name: Abdullah Al Hasan\n\nএকটি মাত্র \"পারসোনাল\" নাম্বার। বিকাশ, নগদ, রকেট ও উপায় থেকে \"সেন্ড মানি\" করুন। বিকাশের দোকান থেকেও পাঠানো যাবে।"
+      "additional_info": "Account holder name: Abdullah Al Hasan\n\nএকটি মাত্র \"পারসোনাল\" নাম্বার। বিকাশ, রকেট ও উপায় থেকে \"সেন্ড মানি\" করুন। বিকাশের দোকান থেকেও পাঠানো যাবে।\n\n* নগদে সেন্ড মানি করবেন না"
     },
     {
       "account_name": "Abdullah Al Hasan",
