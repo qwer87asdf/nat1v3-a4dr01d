@@ -52,7 +52,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/আইয়ামে-বীজ-রোজার-ফজিলত",
-      "enable": true,
+      "enable": false,
       "id": 102,
       "message": "এমাসের রোজা: ১৯, ২০ ও ২১ আগস্ট। এ রোজার ফজিলত ও মাসআলা জানুন",
       "title": "আইয়ামে বীজের রোজা রাখছেন তো?"
@@ -60,7 +60,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://muslimsday.com/donation",
-      "enable": true,
+      "enable": false,
       "id": 101,
       "message": "এই ফান্ডে যাকাত-ফিতরা প্রদান করা যাবে না। সাধারন ডোনেশন দিতে পারেন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
