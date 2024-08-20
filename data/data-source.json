@@ -1,6 +1,6 @@
 {
     "ad": {
-        "updated_at": 1699001265,
+        "updated_at": 1699001266,
         "url": "data/ad-array.json"
     },
     "app_info": {
@@ -20,7 +20,7 @@
         "url": "data/dua.json"
     },
     "hijri_month": {
-        "updated_at": 1699001176,
+        "updated_at": 1699001178,
         "url": "data/hijri-month.json"
     },
     "qari": {
