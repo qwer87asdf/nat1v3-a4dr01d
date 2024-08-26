@@ -2,7 +2,7 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "বিস্তারিত",
+      "button_text": "Donate",
       "action_url": "https://muslimsday.com/august-2024-flood-donation",
       "enable": true,
       "id": 8,
@@ -10,12 +10,12 @@
       "title": "বন্যার্তদের সাহায্যের জন্য অনুদান দিন"
     },
     {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/হাসিনার-পতনে-শুকরিয়া",
-      "enable": false,
+      "button_text": "পড়ুন",
+      "action_url": "https://muslimsday.com/আকস্মিক-বন্যায়-সহযোগিতা/",
+      "enable": true,
       "id": 7,
-      "message": "আসুন আল্লাহর কাছে কৃতজ্ঞতায় নতশির হই। বিশৃঙ্খলা না করি",
-      "title": "আলহামদুলিল্লাহ! স্বৈরাচার শাসনের পতন!"
+      "message": "আসুন, আমরা বিপদগ্রস্ত ভাই-বোনদের পাশে দাঁড়াই",
+      "title": "আকস্মিক বন্যায় বিপর্যস্ত দেশ"
     },
     {
       "button_text": "বিস্তারিত",
