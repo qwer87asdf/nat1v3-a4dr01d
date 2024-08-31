@@ -4,7 +4,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://muslimsday.com/august-2024-flood-donation",
-      "enable": true,
+      "enable": false,
       "id": 8,
       "message": "কয়েকটি নির্ভরযোগ্য প্রতিষ্ঠানের তথ্য দেয়া হলো। সাধ্য মত অংশগ্রহন করুন",
       "title": "বন্যার্তদের সাহায্যের জন্য অনুদান দিন"
