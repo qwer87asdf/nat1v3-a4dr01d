@@ -44,7 +44,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/আখেরী-চাহার-সোম্বা-বিদআত",
-      "enable": true,
+      "enable": false,
       "id": 3,
       "message": "সফর মাসের বহুল প্রচলিত বিদআত ও ভ্রান্ত রেওয়াজ সম্পর্কে জানুন",
       "title": "আখেরি চাহার সোম্বা"
