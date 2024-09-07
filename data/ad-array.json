@@ -2,28 +2,28 @@
   "admob_enable": true,
   "banner_ads": [
     {
-      "button_text": "Donate",
-      "action_url": "https://muslimsday.com/august-2024-flood-donation",
-      "enable": false,
+      "button_text": "পড়ুন",
+      "action_url": "https://muslimsday.com/ঈদে-মীলাদুন্নবীর-ইতিহাস",
+      "enable": true,
       "id": 8,
-      "message": "কয়েকটি নির্ভরযোগ্য প্রতিষ্ঠানের তথ্য দেয়া হলো। সাধ্য মত অংশগ্রহন করুন",
-      "title": "বন্যার্তদের সাহায্যের জন্য অনুদান দিন"
+      "message": "মাওলানা শিব্বীর আহমদ সাহেবের লিখা ব্লগপোস্টটি পড়তে ক্লিক করুন",
+      "title": "ঈদে মীলাদুন্নবীর ইতিহাস ও হাস্যকর কিছু দাবী"
     },
     {
       "button_text": "পড়ুন",
-      "action_url": "https://muslimsday.com/আকস্মিক-বন্যায়-সহযোগিতা/",
-      "enable": false,
+      "action_url": "https://muslimsday.com/জন্মদিন-পালনের-ইতিহাস",
+      "enable": true,
       "id": 7,
-      "message": "আসুন, আমরা বিপদগ্রস্ত ভাই-বোনদের পাশে দাঁড়াই",
-      "title": "আকস্মিক বন্যায় বিপর্যস্ত দেশ"
+      "message": "ইসলামে জন্মদিন পালনের শরয়ী বিধান সম্পর্কে জানুন",
+      "title": "প্রসঙ্গ মীলাদুন্নবী: জন্মদিন পালনের ইতিহাস"
     },
     {
-      "button_text": "বিস্তারিত",
-      "action_url": "https://muslimsday.com/মহিমান্বিত-আশুরার-ইতিহাস",
-      "enable": false,
+      "button_text": "পড়ুন",
+      "action_url": "https://muslimsday.com/১২-রবিউল-আউয়াল/",
+      "enable": true,
       "id": 6,
-      "message": "চলুন জেনে নেয়া যাক আশুরার মহিমান্বিত ইতিহাস",
-      "title": "ইতিহাসের আলোকে মহিমান্বিত আশুরা"
+      "message": "এটিই কি নিশ্চিত ভাবে নবীজির সা. জন্মদিন?",
+      "title": "১২ই রবিউল আউয়াল তারিখ"
     },
     {
       "button_text": "বিস্তারিত",
@@ -36,7 +36,7 @@
     {
       "button_text": "বিস্তারিত",
       "action_url": "https://muslimsday.com/মুহাররম-আশুরা-কুইজ-২০২৪",
-      "enable": true,
+      "enable": false,
       "id": 4,
       "message": "কুইজ অনুষ্ঠিত হবে ৬ সেপ্টেম্বর ২০২৪, শুক্রবার",
       "title": "মুহাররম কুইজ ২০২৪"
@@ -60,7 +60,7 @@
     {
       "button_text": "Donate",
       "action_url": "https://muslimsday.com/donation",
-      "enable": false,
+      "enable": true,
       "id": 101,
       "message": "এই ফান্ডে যাকাত-ফিতরা প্রদান করা যাবে না। সাধারন ডোনেশন দিতে পারেন",
       "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
