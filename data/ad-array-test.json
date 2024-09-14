@@ -1,0 +1,53 @@
+{
+  "admob_enable": true,
+  "banner_ads": [
+    {
+      "button_text": "পড়ুন",
+      "action_url": "https://muslimsday.com/ঈদে-মীলাদুন্নবীর-ইতিহাস",
+      "enable": true,
+      "id": 8,
+      "message": "মাওলানা শিব্বীর আহমদ সাহেবের লিখা ব্লগপোস্টটি পড়তে ক্লিক করুন",
+      "title": "ঈদে মীলাদুন্নবীর ইতিহাস ও হাস্যকর কিছু দাবী"
+    },
+    {
+      "button_text": "পড়ুন",
+      "action_url": "https://muslimsday.com/জন্মদিন-পালনের-ইতিহাস",
+      "enable": true,
+      "id": 7,
+      "message": "ইসলামে জন্মদিন পালনের শরয়ী বিধান সম্পর্কে জানুন",
+      "title": "প্রসঙ্গ মীলাদুন্নবী: জন্মদিন পালনের ইতিহাস"
+    },
+    {
+      "button_text": "পড়ুন",
+      "action_url": "https://muslimsday.com/১২-রবিউল-আউয়াল/",
+      "enable": true,
+      "id": 6,
+      "message": "এটিই কি নিশ্চিত ভাবে নবীজির সা. জন্মদিন?",
+      "title": "১২ই রবিউল আউয়াল তারিখ"
+    },
+    {
+      "button_text": "বিস্তারিত",
+      "action_url": "https://muslimsday.com/আখেরী-চাহার-সোম্বা-বিদআত",
+      "enable": false,
+      "id": 3,
+      "message": "সফর মাসের বহুল প্রচলিত বিদআত ও ভ্রান্ত রেওয়াজ সম্পর্কে জানুন",
+      "title": "আখেরি চাহার সোম্বা"
+    },
+    {
+      "button_text": "বিস্তারিত",
+      "action_url": "https://muslimsday.com/আইয়ামে-বীজ-রোজার-ফজিলত",
+      "enable": true,
+      "id": 102,
+      "message": "এমাসের রোজার তারিখ: ১৭, ১৮ ও ১৯ সেপ্টেম্বর। বিস্তারিত পড়ুন",
+      "title": "আইয়ামে বীজের রোজা রাখছেন তো?"
+    },
+    {
+      "button_text": "Donate",
+      "action_url": "https://muslimsday.com/donation",
+      "enable": true,
+      "id": 101,
+      "message": "এই ফান্ডে যাকাত-ফিতরা প্রদান করা যাবে না। সাধারন ডোনেশন দিতে পারেন",
+      "title": "মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন"
+    }
+  ]
+}
