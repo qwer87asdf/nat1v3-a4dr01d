@@ -3,7 +3,9 @@
     "id": "hafeji",
     "name_en": "Hafeji Quran",
     "name_bn": "হাফেজি কুরআন",
-    "thumbnail": "data/quran_reading/thumbnail/hafeji.jpg",
+    "thumbnail": "data/quran_reading/hafeji/hafeji_quran_thumbnail.jpg",
+    "sample_image": "data/quran_reading/hafeji/hefezi_quran_sample.jpg",
+    "file_size": "80 MB",
     "data": {
       "surah_mapping": {
         "url": "data/quran_reading/hafeji/surah_mapping.csv",
@@ -23,7 +25,9 @@
     "id": "nurani",
     "name_en": "Nurani Quran",
     "name_bn": "নুরানী কুরআন",
-    "thumbnail": "data/quran_reading/thumbnail/nurani.jpg",
+    "thumbnail": "data/quran_reading/nurani/nurani_quran_thumbnail.jpg",
+    "sample_image": "data/quran_reading/nurani/nurani_quran_sample.jpg",
+    "file_size": "60 MB",
     "data": {
       "surah_mapping": {
         "url": "data/quran_reading/nurani/surah_mapping.csv",
