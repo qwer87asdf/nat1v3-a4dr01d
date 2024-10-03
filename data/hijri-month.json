@@ -19,48 +19,48 @@
   },
   {
     "name": "Rabi Ath-Thani",
-    "start": "2023-10-17",
-    "end": "2023-11-15",
-    "hijri_year": "1445"
+    "start": "2024-10-05",
+    "end": "2024-11-03",
+    "hijri_year": "1446"
   },
   {
     "name": "Jumada Al Ula",
-    "start": "2023-11-16",
-    "end": "2023-12-14",
-    "hijri_year": "1445"
+    "start": "2024-11-04",
+    "end": "2024-12-02",
+    "hijri_year": "1446"
   },
   {
     "name": "Jumada Al Akhirah",
-    "start": "2023-12-15",
-    "end": "2024-01-13",
-    "hijri_year": "1445"
+    "start": "2024-12-03",
+    "end": "2025-01-01",
+    "hijri_year": "1446"
   },
   {
     "name": "Rajab",
-    "start": "2024-01-14",
-    "end": "2024-02-11",
-    "hijri_year": "1445"
+    "start": "2025-01-02",
+    "end": "2025-01-31",
+    "hijri_year": "1446"
   },
   {
     "name": "Sha'ban",
-    "start": "2024-02-12",
-    "end": "2024-03-11",
-    "hijri_year": "1445"
+    "start": "2025-02-01",
+    "end": "2025-03-01",
+    "hijri_year": "1446"
   },
   {
     "name": "Ramadan",
-    "start": "2024-03-12",
-    "end": "2024-04-10",
-    "hijri_year": "1445"
+    "start": "2025-03-02",
+    "end": "2025-03-30",
+    "hijri_year": "1446"
   },
   {
     "name": "Shawwal",
-    "start": "2024-04-11",
-    "end": "2024-05-09",
-    "hijri_year": "1445"
+    "start": "2025-03-31",
+    "end": "2025-04-29",
+    "hijri_year": "1446"
   },
   {
-    "name": "Dhu l-Kada ",
+    "name": "Dhu l-Kada",
     "start": "2024-05-10",
     "end": "2024-06-07",
     "hijri_year": "1445"
