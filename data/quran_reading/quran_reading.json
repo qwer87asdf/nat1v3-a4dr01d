@@ -3,20 +3,20 @@
     "id": "hafeji",
     "name_en": "Hafeji Quran (Emdadia Library)",
     "name_bn": "হাফেজি কুরআন (এমদাদিয়া লাইব্রেরি)",
-    "thumbnail": "data/quran_reading/hafeji/hafeji_quran_thumbnail.jpg",
-    "sample_image": "data/quran_reading/hafeji/hefezi_quran_sample.jpg",
+    "thumbnail": "data/quran_reading/hafezi_emdadia/thumbnail.jpg",
+    "sample_image": "data/quran_reading/hafezi_emdadia/sample.jpg",
     "file_size": "16 MB",
     "data": {
       "surah_mapping": {
-        "url": "data/quran_reading/hafeji/surah_mapping.csv",
+        "url": "data/quran_reading/hafezi_emdadia/surah_mapping.csv",
         "updaed_at": 1718118114
       },
       "para_mapping": {
-        "url": "data/quran_reading/hafeji/para_mapping.csv",
+        "url": "data/quran_reading/hafezi_emdadia/para_mapping.csv",
         "updaed_at": 1718118114
       },
       "pages": {
-        "url": "data/quran_reading/hafeji/hafezi_emdadia.pdf",
+        "url": "data/quran_reading/hafezi_emdadia/mushaf.pdf",
         "updaed_at": 1718118114
       }
     }
