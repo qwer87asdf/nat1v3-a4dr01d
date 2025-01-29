@@ -8,5 +8,6 @@
   "ifaTimeEndpointUpdatedAt": 1679475027,
   "isForceUpdateEnable": false,
   "isIfaEnable": true,
-  "isAdNetworkEnable": true
+  "isAdNetworkHomeBannerEnable": true,
+  "isAdNetworkSaomTimeBannerEnable": true
 }
