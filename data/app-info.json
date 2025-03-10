@@ -8,7 +8,6 @@
   "ifaTimeEndpointUpdatedAt": 1679475027,
   "isForceUpdateEnable": false,
   "isIfaEnable": false,
-  "isMahfilVideoFeedEnable": true,
   "adNetworkConfig": {
     "minDaysBeforeAdShown": 0,
     "isEnable": true,
@@ -29,5 +28,8 @@
         "divId": "under-saom-card-time"
       }
     ]
+  },
+  "settingsMetaData": {
+    "isMahfilVideoFeedEnable": true
   }
 }
