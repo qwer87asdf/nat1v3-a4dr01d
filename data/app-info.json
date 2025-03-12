@@ -26,6 +26,18 @@
         "adType": "image-320x100",
         "placement": "saom-full-screen-page",
         "divId": "under-saom-card-time"
+      },
+      {
+        "isEnable": true,
+        "adType": "image-640x200",
+        "placement": "common-content-page",
+        "divId": "common-content-bottom"
+      },
+      {
+        "isEnable": true,
+        "adType": "image-640x200",
+        "placement": "notification-details-page",
+        "divId": "notification-details-bottom"
       }
     ]
   },
