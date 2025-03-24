@@ -1,1 +1,12 @@
-{"banner_ads":[{"id":107,"enable":true,"title":"ইতিকাফ: গুরুত্ব, ফজিলত ও বিধান","message":"মাওলানা শিব্বীর আহমদ সাহেবের ইতিকাফ বিষয়ক ব্লগপোস্ট","button_text":"পড়ুন","action_url":"https://muslimsday.com/ইতিকাফ-ফজিলত-মাসআলা/"},{"id":110,"enable":true,"title":"২০২৫ সালের ফিতরা কত টাকা?","message":"জেনে নিন কিভাবে আপনার সামর্থ্য অনুযায়ী ফিতরা হিসাব করবেন","button_text":"পড়ুন","action_url":"https://muslimsday.com/ফিতরা-কত-টাকা-মাসআলা/"},{"id":111,"enable":true,"title":"মহিমান্বিত রাত শবে কদর","message":"শবে কদর কেবল ২৭ রমযান নয়! হতে পারে শেষ দশকের যে কোনো দিন","button_text":"পড়ুন","action_url":"https://muslimsday.com/মহিমান্বিত-রাত-শবে-কদর"}]}
+{
+  "banner_ads": [
+    {
+      "id": 107,
+      "enable": true,
+      "title": "মুসলিমস ডে অ্যাপে আপডেট এসেছে!",
+      "message": "নতুন ভার্সন 5.13.4 এ আপডেট করুন ও ৫ স্টার রেটিং দিন",
+      "button_text": "আপডেট",
+      "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan"
+    }
+  ]
+}
