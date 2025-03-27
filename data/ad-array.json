@@ -1,12 +1,1 @@
-{
-  "banner_ads": [
-    {
-      "id": 107,
-      "enable": true,
-      "title": "মুসলিমস ডে অ্যাপে আপডেট এসেছে!",
-      "message": "নতুন ভার্সন 5.13.4 এ আপডেট করুন ও ৫ স্টার রেটিং দিন",
-      "button_text": "আপডেট",
-      "action_url": "https://play.google.com/store/apps/details?id=theoaktroop.appoframadan"
-    }
-  ]
-}
+{"banner_ads":[{"id":101,"enable":true,"title":"মুসলিমস ডে অ্যাপে আর্থিক অনুদান দিন","message":"যাকাত-ফিতরা দেয়া যাবে না। সাধারন অনুদান দিতে পারেন","button_text":"Donate","action_url":"https://muslimsday.com/donation/?utm_source=muslims-day-ios&utm_medium=banner&utm_campaign=blog-reach"},{"id":107,"enable":true,"title":"ইতিকাফ: গুরুত্ব, ফজিলত ও বিধান","message":"মাওলানা শিব্বীর আহমদ সাহেবের ইতিকাফ বিষয়ক ব্লগপোস্ট","button_text":"পড়ুন","action_url":"https://muslimsday.com/ইতিকাফ-ফজিলত-মাসআলা/"}]}
