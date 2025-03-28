@@ -56,7 +56,7 @@
         "url": "data/local-notification-v2.json"
     },
     "quran_reading": {
-        "updated_at": 1699001179,
+        "updated_at": 1699001180,
         "url": "data/quran_reading/quran_reading.json"
     }
 }
