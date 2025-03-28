@@ -10,11 +10,11 @@
     "data": {
       "surah_mapping": {
         "url": "data/quran_reading/hafezi_emdadia/surah_mapping.csv",
-        "updaed_at": 1718118114
+        "updaed_at": 1718118115
       },
       "para_mapping": {
         "url": "data/quran_reading/hafezi_emdadia/para_mapping.csv",
-        "updaed_at": 1718118114
+        "updaed_at": 1718118115
       },
       "pages": {
         "url": "data/quran_reading/hafezi_emdadia/mushaf.pdf",
@@ -33,11 +33,11 @@
     "data": {
       "surah_mapping": {
         "url": "data/quran_reading/nurani/surah_mapping.csv",
-        "updaed_at": 1718118114
+        "updaed_at": 1718118115
       },
       "para_mapping": {
         "url": "data/quran_reading/nurani/para_mapping.csv",
-        "updaed_at": 1718118114
+        "updaed_at": 1718118115
       },
       "pages": {
         "url": "data/quran_reading/nurani/mushaf.pdf",
