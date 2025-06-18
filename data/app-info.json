@@ -10,7 +10,7 @@
   "isIfaEnable": false,
   "adNetworkConfig": {
     "minDaysBeforeAdShown": 0,
-    "isEnable": true,
+    "isEnable": false,
     "publisher": "muslims-day",
     "format": "json",
     "campaign_types": "paid|publisher-house|community|house",
