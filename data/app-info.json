@@ -52,37 +52,31 @@
     "ads": [
       {
         "isEnable": true,
-        "adType": "banner-medium",
         "placement": "5e3821f5e859d383b289f395f0181b20",
-        "divId": "under-saalat-time"
+        "divId": "home-page-under-saalat-time"
       },
       {
         "isEnable": true,
-        "adType": "banner-medium",
         "placement": "5e3821f5e859d383b289f395f0181b20",
-        "divId": "under-saom-card-time"
+        "divId": "saom-full-screen-under-saom-card"
       },
       {
         "isEnable": true,
-        "adType": "banner-medium",
         "placement": "5e3821f5e859d383b289f395f0181b20",
-        "divId": "common-content-bottom"
+        "divId": "common-content-page-bottom"
       },
       {
         "isEnable": true,
-        "adType": "banner-medium",
         "placement": "5e3821f5e859d383b289f395f0181b20",
-        "divId": "notification-details-bottom"
+        "divId": "notification-details-page-bottom"
       },
       {
         "isEnable": true,
-        "adType": "banner-small",
         "placement": "db42060c4cfa03bd070eb91fdbe24fb7",
         "divId": "mahfil-player-bottom"
       },
       {
         "isEnable": true,
-        "adType": "native",
         "placement": "ea0443cc23fd2fcb99187057f3fa85dc",
         "divId": "mahfil-home-feed"
       }
