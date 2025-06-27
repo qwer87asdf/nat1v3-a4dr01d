@@ -42,6 +42,52 @@
       }
     ]
   },
+  "adNetworkConfigV2": {
+    "minDaysBeforeAdShown": 0,
+    "isEnable": true,
+    "publisher": "muslims-day",
+    "format": "json",
+    "campaign_types": "paid|inhouse",
+    "refresh_rate_in_millis": 30000,
+    "ads": [
+      {
+        "isEnable": true,
+        "adType": "banner-medium",
+        "placement": "5e3821f5e859d383b289f395f0181b20",
+        "divId": "under-saalat-time"
+      },
+      {
+        "isEnable": true,
+        "adType": "banner-medium",
+        "placement": "5e3821f5e859d383b289f395f0181b20",
+        "divId": "under-saom-card-time"
+      },
+      {
+        "isEnable": true,
+        "adType": "banner-medium",
+        "placement": "5e3821f5e859d383b289f395f0181b20",
+        "divId": "common-content-bottom"
+      },
+      {
+        "isEnable": true,
+        "adType": "banner-medium",
+        "placement": "5e3821f5e859d383b289f395f0181b20",
+        "divId": "notification-details-bottom"
+      },
+      {
+        "isEnable": true,
+        "adType": "banner-small",
+        "placement": "db42060c4cfa03bd070eb91fdbe24fb7",
+        "divId": "mahfil-player-bottom"
+      },
+      {
+        "isEnable": true,
+        "adType": "native",
+        "placement": "ea0443cc23fd2fcb99187057f3fa85dc",
+        "divId": "mahfil-home-feed"
+      }
+    ]
+  },
   "settingsMetaData": {
     "isMahfilVideoFeedEnable": true,
     "mahfilDisableMessage": "কারিগরি উন্নয়নের জন্য সাময়িক ভাবে মাহফিলের ভিডিও ফিড বন্ধ আছে। খুব শিঘ্রই ইনশাআল্লাহ এটি চালু করা হবে"
