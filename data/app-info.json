@@ -52,33 +52,33 @@
     "ads": [
       {
         "isEnable": true,
-        "placement": "5e3821f5e859d383b289f395f0181b20",
+        "placement": "8a6eaaa2718d003335f126d24d78c311",
         "divId": "home-page-under-saalat-time"
       },
       {
         "isEnable": true,
-        "placement": "5e3821f5e859d383b289f395f0181b20",
+        "placement": "8a6eaaa2718d003335f126d24d78c311",
         "divId": "saom-full-screen-under-saom-card"
       },
       {
         "isEnable": true,
-        "placement": "5e3821f5e859d383b289f395f0181b20",
+        "placement": "8a6eaaa2718d003335f126d24d78c311",
         "divId": "common-content-page-bottom"
       },
       {
         "isEnable": true,
-        "placement": "5e3821f5e859d383b289f395f0181b20",
+        "placement": "8a6eaaa2718d003335f126d24d78c311",
         "divId": "notification-details-page-bottom"
       },
       {
         "isEnable": true,
-        "placement": "db42060c4cfa03bd070eb91fdbe24fb7",
+        "placement": "948b56f62b8d4ceaf349a5be98d0c632",
         "divId": "mahfil-player-bottom"
       },
       {
         "isEnable": true,
-        "placement": "ea0443cc23fd2fcb99187057f3fa85dc",
-        "divId": "mahfil-home-feed"
+        "placement": "a359bd948b0f30fcaf27ace4e5359281",
+        "divId": "mahfil-feed"
       }
     ]
   },
