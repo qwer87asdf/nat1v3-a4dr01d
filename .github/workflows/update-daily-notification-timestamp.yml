@@ -30,11 +30,8 @@ jobs:
           const now = Math.floor(Date.now() / 1000);
 
           const data = JSON.parse(fs.readFileSync(path, 'utf-8'));
-          for (const item of data) {
-            if (item.name === 'local_notification_v2') {
-              item.updated_at = now;
-              break;
-            }
+          if (data.local_notification_v2) {
+            data.local_notification_v2.updated_at = now;
           }
           fs.writeFileSync(path, JSON.stringify(data, null, 2));
           EOF
@@ -54,7 +51,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git add data/data_source.json
+          git add data/data-source.json
           git commit -m "Update local_notification_v2 updated_at to $(date +%s)" || echo "No changes to commit"
 
       - name: Push changes
