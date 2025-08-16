@@ -1,62 +1,62 @@
 {
-    "ad": {
-        "updated_at": 1740205889,
-        "url": "data/ad-array.json"
-    },
-    "app_info": {
-        "updated_at": 1739726210,
-        "url": "data/app-info.json"
-    },
-    "district_time": {
-        "updated_at": 1699001178,
-        "url": "data/district-time.json"
-    },
-    "donation": {
-        "updated_at": 1699001193,
-        "url": "data/donation.json"
-    },
-    "dua": {
-        "updated_at": 1699001184,
-        "url": "data/dua.json"
-    },
-    "hijri_month": {
-        "updated_at": 1699001185,
-        "url": "data/hijri-month.json"
-    },
-    "qari": {
-        "updated_at": 1739250057,
-        "url": "data/qari.json"
-    },
-    "special_note": {
-        "updated_at": 1699001175,
-        "url": "data/special-note.json"
-    },
-    "wrong_concept": {
-        "updated_at": 1699001173,
-        "url": "data/wrong-concept.json"
-    },
-    "article": {
-        "updated_at": 1699001174,
-        "url": "data/article.json"
-    },
-    "masala": {
-        "updated_at": 1699001173,
-        "url": "data/masala.json"
-    },
-    "masnun_amal": {
-        "updated_at": 1699001173,
-        "url": "data/masnun-amal.json"
-    },
-    "local_notification": {
-        "updated_at": 1699001173,
-        "url": "data/local-notification.json"
-    },
-    "local_notification_v2": {
-        "updated_at": 1699001179,
-        "url": "data/local-notification-v2.json"
-    },
-    "quran_reading": {
-        "updated_at": 1699001181,
-        "url": "data/quran_reading/quran_reading.json"
-    }
+  "ad": {
+    "updated_at": 1740205889,
+    "url": "data/ad-array.json"
+  },
+  "app_info": {
+    "updated_at": 1739726210,
+    "url": "data/app-info.json"
+  },
+  "district_time": {
+    "updated_at": 1699001178,
+    "url": "data/district-time.json"
+  },
+  "donation": {
+    "updated_at": 1699001193,
+    "url": "data/donation.json"
+  },
+  "dua": {
+    "updated_at": 1699001184,
+    "url": "data/dua.json"
+  },
+  "hijri_month": {
+    "updated_at": 1699001185,
+    "url": "data/hijri-month.json"
+  },
+  "qari": {
+    "updated_at": 1739250057,
+    "url": "data/qari.json"
+  },
+  "special_note": {
+    "updated_at": 1699001175,
+    "url": "data/special-note.json"
+  },
+  "wrong_concept": {
+    "updated_at": 1699001173,
+    "url": "data/wrong-concept.json"
+  },
+  "article": {
+    "updated_at": 1699001174,
+    "url": "data/article.json"
+  },
+  "masala": {
+    "updated_at": 1699001173,
+    "url": "data/masala.json"
+  },
+  "masnun_amal": {
+    "updated_at": 1699001173,
+    "url": "data/masnun-amal.json"
+  },
+  "local_notification": {
+    "updated_at": 1699001173,
+    "url": "data/local-notification.json"
+  },
+  "local_notification_v2": {
+    "updated_at": 1755309192,
+    "url": "data/local-notification-v2.json"
+  },
+  "quran_reading": {
+    "updated_at": 1699001181,
+    "url": "data/quran_reading/quran_reading.json"
+  }
 }
