@@ -86,6 +86,7 @@
     "isMahfilVideoFeedEnable": true,
     "mahfilDisableMessage": "কারিগরি উন্নয়নের জন্য সাময়িক ভাবে মাহফিলের ভিডিও ফিড বন্ধ আছে। খুব শিঘ্রই ইনশাআল্লাহ এটি চালু করা হবে",
     "isKahfIdEnabled": true,
+    "isSupportButtonEnable": true,
     "adsMetaData": {
       "whyThisAdButtonText": "কেন Ad দেখানো হয়?",
       "closeAdButtonText": "Ad বন্ধ করুন",
